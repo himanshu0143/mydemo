@@ -54,6 +54,7 @@
 	
 	<jsp:include page="/Common/header.jsp"></jsp:include>
 	<jsp:include page="/Common/left-navbar.jsp"></jsp:include>
+	
 	<jsp:include page="/Common/footer.jsp"></jsp:include>
 	
 	
